@@ -52,4 +52,4 @@ def fract(x):
 if __name__ == "__main__":
     print(fract(0))
     print(fract(1))
-    print(fract(5))
+    print(fract(17))
